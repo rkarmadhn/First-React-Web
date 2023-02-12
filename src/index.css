@@ -9,6 +9,10 @@ body {
   scroll-behavior: smooth;
 }
 
+.rounded-images img {
+  border-radius: 100%;
+}
+
 @media (max-width : 575.98px) {
   .desktop-view{
       display: none;
